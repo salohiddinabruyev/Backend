@@ -1,0 +1,39 @@
+# 1-QADAM
+https://git-scm.com/
+saytiga kiramiz va u yerdan kompyuterimiz uchun tavsiya qilingan versiyani yuklab olamiz
+https://git-scm.com/download
+
+# 2-QADAM
+Yuklab olgan dasturimizni kompyuterga o'rnatamiz
+O'rnatish paytida (Code Editor) qismiga (Visual Studio Code Default Editor) qilib tanlab qo'yamiz.
+
+# 3-QADAM
+Git Bash dasturini ishga tushiramiz
+
+# 4-QADAM
+GIT dan foydalanish uchun ushbu buyruqlar qatoridan foydalamiz
+4.1-Loyihamizni ko'chirib olish uchun kerakli joyga kiramiz (cd Desktop)
+4.2-Loyihani ko'chirib olish uchun github.com da Repository yaratamiz (Backend)
+4.3-Endi loyihani ko'chirib olish uchun o'sha Repository turgan manzilni nusxa qilib olamiz (https://github.com/salohiddinabruyev/Backend)
+4.4-Loyihani local kompyuterimizga ko'chirib olish uchun (git clone ) 4.3 da nusxa qilgan manzilimizni kiritamiz va oxirida .git qo'shib enter bosamiz
+Shu qismida bizdan github accountni ulashni so'raydi
+4.5-Ushbu qismda bizga chiqargan oyna orqali browser bilan github accountni ulab qo'yamiz bo'ldi✅
+
+# 5-QADAM
+Yuklab olingan papkamizni VSCode orqali ochamiz
+ichida kerakli loyihalarimizni bajarib VSCode terminalini ochamiz (Ctrl+Shft+~)
+
+# 6-QADAM
+Git orqali loyihani tekshirib olamiz va ularni github ga joylaymiz
+6.1-Biz qanday fayllar yaratdik va qo'shdik (git status) enter
+6.2.1-Yaratgan fayllarimizni bitta faylni github ga yubormoqchi bo'lsak (git add index.html) enter
+6.2.2-Yaratgan fayllarimizni barchasini githubga yubormoqchi bo'lsak (git add .) enter
+Va bizda yuborish uchun fayllarni tanladik endi unga nom beramiz
+6.3-Yubormoqchi bo'lgan ma'lumotlarimizni (git status) orqali tekshirib olamiz
+6.4-Yubormoqchi bo'lgan ma'lumotlarimizni (git commit -m "1-Modul 1-darsi") ko'rinishida nom beramiz
+Va barcha qismlarini to'g'ri bajargandan keyin uni githubga chiqaramiz
+6.5-Github ga chiqarish uchun (git push) enter
+
+Va bizda barcha kiritgan ma'lumotlarimiz githubga joylashtirildi.
+
+Barchani tabriklayman✅
