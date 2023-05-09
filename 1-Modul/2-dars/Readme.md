@@ -12,7 +12,7 @@
 ---------
 ## Internet
 > * Internet -ma'lumot almashinish tarmog'i
-> * Internet -ko'plab kompyuterlar ulangan tarmoq
+> * Internet -ko'plab qurilmalar(telefon, planshet, kompyuter)lar ulangan tarmoq
 > # Internetga ulanish - ISP(Internet Service Provider)
 > ![Internet Service Provider](assets/img/isp.jpg)
 ---------
