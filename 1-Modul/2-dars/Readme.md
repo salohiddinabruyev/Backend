@@ -42,7 +42,13 @@
 > ## Hosting nima?
 > **Hosting** - web saytlarni internetda joylashtirish uchun xizmat hisoblanadi
 > > ![Hosting haqida tushuncha](hosting.jpg)
-> 
+> ### Hosting turlari (eng mashhur 3 tasi haqida)
+> > 1. Shared hosting (Arzon)
+> >   * Bitta serverda bir nechta web saytlar joylashishi mumkin, sizning saytingiz yonida yana bir nechta mijozlarning saytlari joylashgan bo'lishi mumkin
+> > 2. VPS(*Virtual private server*) hosting (O'rtacha)
+> >   * Bitta serverda bir nechta virtual serverlar hosil qilinadi, **Shared hosting**dan farqi siz uchun alohida virtual server yaratiladi unga faqat o'zingizni saytingizni joylashingiz mumkin.
+> > 3. Dedicated hosting (Qimmat)
+> >   * Bitta server faqat bitta mijoz uchun ishlatiladi, 
 ---------
 
 - DNS
