@@ -37,4 +37,4 @@ https://git-scm.com/download
 
 ## Va bizda barcha kiritgan ma'lumotlarimiz githubga joylashtirildi.
 
-Barchani tabriklayman✅
+Barchani tabriklayman
