@@ -29,6 +29,9 @@
 > > **Domenga misollar**
 > > * [agron.uz](https://agron.uz)
 > > * [webplaneta.uz](https://webplaneta.uz)
+> > ## ![Domen haqida tushuncha](domen.jpg)
+> ## URL nima?
+> **URL** - internetdagi ma'lumotlarning aniq manzili hisoblanadi.
 ---------
 
 - DNS
