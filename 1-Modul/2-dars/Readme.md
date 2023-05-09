@@ -61,4 +61,9 @@
 ## Web Server
 > ## Web server nima?
 > **Web Server** - Foydalanuvchidan kelayotgan so'rovlarni (HTTP so'rovlarni) qabul qilib, tegishli javobni yuboradigan dastur hisoblanadi.
+> ### Bu dasturlarga misollar;
+> > * Apache(HTTP Server)
+> > * NGINX
+> > * IIS
+> > ![Web Server haqida](web-server.jpg)
 - Frontend Backend **arxitekturasi**
