@@ -45,12 +45,25 @@
 > ### Hosting turlari (eng mashhur 3 tasi haqida)
 > > 1. Shared hosting (Arzon)
 > >   * Bitta serverda bir nechta web saytlar joylashishi mumkin, sizning saytingiz yonida yana bir nechta mijozlarning saytlari joylashgan bo'lishi mumkin
+> > ![Shared-Hosting](shared-hosting.jpg)
 > > 2. VPS(*Virtual private server*) hosting (O'rtacha)
 > >   * Bitta serverda bir nechta virtual serverlar hosil qilinadi, **Shared hosting**dan farqi siz uchun alohida virtual server yaratiladi unga faqat o'zingizni saytingizni joylashingiz mumkin.
+> > ![Virtual Private Server](VPS-hosting.jpg)
 > > 3. Dedicated hosting (Qimmat)
-> >   * Bitta server faqat bitta mijoz uchun ishlatiladi, 
+> >   * Bitta server faqat bitta mijoz uchun ishlatiladi.
+> > ![Dedicated Hosting](Dedicated-hosting.jpg)
 ---------
-
-- DNS
-- Web Server
+## DNS
+> ## DNS nima?
+> **DNS(Domain Name Server)** - Domen nomlari tizimi (DNS) Domen nomlarini IP manzillarga o'girib beradi.
+> > ![DNS haqida tushuncha](DNS.jpg)
+---------
+## Web Server
+> ## Web server nima?
+> **Web Server** - Foydalanuvchidan kelayotgan so'rovlarni (HTTP so'rovlarni) qabul qilib, tegishli javobni yuboradigan dastur hisoblanadi.
+> ### Bu dasturlarga misollar;
+> > * Apache(HTTP Server)
+> > * NGINX
+> > * IIS
+> > ![Web Server haqida](web-server.jpg)
 - Frontend Backend **arxitekturasi**
