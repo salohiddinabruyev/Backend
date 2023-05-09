@@ -1,15 +1,14 @@
 # Web Texnologiyalar
-> O'tiladigan mavzularimiz
-1. [Web Texnologiyalar](#Web-texnologiyalar-nima)
-2. [Internet](#Internet)
-3. [Web ilovalarning arxitekturasi](#Web-ilovalarning-arxitekturasi)
-4. [Protkollar](#Protokollar)
-5. [IP, DOMEN, URL, HOSTING](#IP-Domen-URL-Hosting)
-6. [DNS](#DNS)
-7. [Web Server](#Web-Server)
----------
 ## Web texnologiyalar nima?
-> * Biz har kuni foydalanadigan web saytlar, web dasturlarni ishlab chiqishda qo'llaniladigan va uni foydalanuvchiga yetkazib berishda ishlatiladigan dasturlarga web texnologiyalar deyiladi. 
+> * Biz har kuni foydalanadigan web saytlar, web dasturlarni ishlab chiqishda qo'llaniladigan va uni foydalanuvchiga yetkazib berishda ishlatiladigan dasturlarga web texnologiyalar deyiladi.
+---------
+> O'tiladigan mavzularimiz
+1. [Internet](#Internet)
+2. [Web ilovalarning arxitekturasi](#Web-ilovalarning-arxitekturasi)
+3. [Protkollar](#Protokollar)
+4. [IP, DOMEN, URL, HOSTING](#IP-Domen-URL-Hosting)
+5. [DNS](#DNS)
+6. [Web Server](#Web-Server)
 ---------
 ## Internet
 > * Internet -ma'lumot almashinish tarmog'i
