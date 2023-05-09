@@ -32,6 +32,13 @@
 > > ## ![Domen haqida tushuncha](domen.jpg)
 > ## URL nima?
 > **URL** - internetdagi ma'lumotlarning aniq manzili hisoblanadi.
+> > ### Misol uchun `http://example.uz:8080/path/data.html?a=1&b=2#part1`
+> > * http - protokol nomi
+> > * example.uz - domen nomi
+> > * 8080 - TCP port
+> > * /path/data.html - fayl yo'li
+> > * a=1&b=2 - so'rov parametrlari
+> > * #part1 - xatcho'p(langar), sahifadagi joylashuv
 ---------
 
 - DNS
