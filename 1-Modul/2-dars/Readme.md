@@ -4,7 +4,7 @@
 2. [Internet](#Internet)
 3. [Web ilovalarning arxitekturasi](#Web-ilovalarning-arxitekturasi)
 4. [Protkollar](#Protokollar)
-5. [IP, DOMEN, URL, HOSTING](#IP,-Domen,-URL,-Hosting)
+5. [IP, DOMEN, URL, HOSTING](#IP-Domen-URL-Hosting)
 6. [DNS](#DNS)
 7. [Web Server](#Web-Server)
 ---------
