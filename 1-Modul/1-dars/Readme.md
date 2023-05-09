@@ -13,7 +13,7 @@ https://git-scm.com/download
 ## 4-QADAM
 > GIT dan foydalanish uchun ushbu buyruqlar qatoridan foydalamiz.\
 > > 1. Loyihamizni ko'chirib olish uchun kerakli joyga kiramiz (cd Desktop)
-> > 2. Loyihani ko'chirib olish uchun github.com da Repository yaratami (Backend)
+> > 2. Loyihani ko'chirib olish uchun [GitHub.com](https://github.com) da Repository yaratami (Backend)
 > > 3. Endi loyihani ko'chirib olish uchun o'sha Repository turgan manzilni nusxa qilib olamiz `https://github.com/salohiddinabruyev/Backend`
 > > 4. Loyihani local kompyuterimizga ko'chirib olish uchun `git clone` 3 dagi nusxa qilgan manzilimizni kiritamiz va oxirida `.git` qo'shib enter bosamiz
 > > > Shu qismida bizdan github accountni ulashni so'raydi.<br>
