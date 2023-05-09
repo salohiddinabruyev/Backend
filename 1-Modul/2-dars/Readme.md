@@ -1,6 +1,7 @@
 # Web Texnologiyalar
 ## Web texnologiyalar nima?
 > * Biz har kuni foydalanadigan web saytlar, web dasturlarni ishlab chiqishda qo'llaniladigan va uni foydalanuvchiga yetkazib berishda ishlatiladigan dasturlarga web texnologiyalar deyiladi.
+> > ![World-Wide-Web-Internet](assets/img/world-wide-web-internet.jpeg)
 ---------
 > O'tiladigan mavzularimiz
 1. [Internet](#Internet)
