@@ -28,7 +28,7 @@
 > **Domen** - web saytdan foydalanish uchun esda qoladigan, takrorlanmaydigan matn ko'rinishidagi manzil nomi hisoblanadi.
 > > **Domenga misollar**
 > > * [agron.uz](https://agron.uz)
-> > * [web-planeta.uz](https://web-planeta.uz)
+> > * [webplaneta.uz](https://webplaneta.uz)
 ---------
 
 - DNS
