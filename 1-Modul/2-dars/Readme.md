@@ -7,7 +7,7 @@
 > * Internet -ko'plab kompyuterlar ulangan tarmoq
 > # Internetga ulanish (ISP)
 > ## ISP(Internet Service Provider)
-> 
+> ![Internet Service Provider](isp.jpg)
 
 
 
