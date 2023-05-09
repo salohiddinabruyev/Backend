@@ -39,6 +39,10 @@
 > > * /path/data.html - fayl yo'li
 > > * a=1&b=2 - so'rov parametrlari
 > > * #part1 - xatcho'p(langar), sahifadagi joylashuv
+> ## Hosting nima?
+> **Hosting** - web saytlarni internetda joylashtirish uchun xizmat hisoblanadi
+> > ![Hosting haqida tushuncha](hosting.jpg)
+> 
 ---------
 
 - DNS
