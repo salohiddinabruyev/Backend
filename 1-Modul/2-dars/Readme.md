@@ -1,26 +1,26 @@
 # Web Texnologiyalar
 > O'tiladigan mavzularimiz
 1. [Web Texnologiyalar](#Web-texnologiyalar-nima)
-2. [Internet](#internet)
-3. [Web ilovalarning arxitekturasi](#web-app)
-4. [Protkollar](#protokol)
-5. [IP, DOMEN, URL, HOSTING](#ip-domen-url-hosting)
+2. [Internet](#Internet)
+3. [Web ilovalarning arxitekturasi](#Web-ilovalarning-arxitekturasi)
+4. [Protkollar](#Protokollar)
+5. [IP, DOMEN, URL, HOSTING](#IP,-Domen,-URL,-Hosting)
 6. [DNS](#DNS)
-7. [Web Server](#web-server)
+7. [Web Server](#Web-Server)
 ---------
 ## Web texnologiyalar nima?
 > * Biz har kuni foydalanadigan web saytlar, web dasturlarni ishlab chiqishda qo'llaniladigan va uni foydalanuvchiga yetkazib berishda ishlatiladigan dasturlarga web texnologiyalar deyiladi. 
 ---------
-## Internet {#internet}
+## Internet
 > * Internet -ma'lumot almashinish tarmog'i
 > * Internet -ko'plab kompyuterlar ulangan tarmoq
 > # Internetga ulanish - ISP(Internet Service Provider)
 > ![Internet Service Provider](isp.jpg)
 ---------
-## Web ilovalarning arxitekturasi {#web-app}
+## Web ilovalarning arxitekturasi
 > ![Web ilovalarning arxitekturasi](web-arxitektura.jpg)
 ---------
-## Protokollar {#protokol}
+## Protokollar
 > **Protokol** - ma'lumotlarni formatlash va qayta ishlash uchun standart qoidalar to'plamidir.
 > * IP - Internet Protocol (Kompyuterdan kompyuterga ma'lumot o'tkazish uchun ishlatiladi)
 > * TCP - Transmission Control Protocol (Kompyuterdagi dasturdan boshqa kompyuterdagi dasturga yuborish uchun ishlatiladi)
@@ -28,7 +28,7 @@
 > * TLC - Transport Layer Security (Internet orqali aloqa uchun ma'lumotlarni xavfsizligini ta'minlash uchun ishlatiladi)
 > > ![Protokollar ishlash](protokol.png)
 ---------
-## IP, Domen, URL, Hosting {#ip-domen-url-hosting}
+## IP, Domen, URL, Hosting
 > ## IP nima?
 > **IP(Internet Protokol)** - internet tarmog'idagi qurilmalarning takrorlanmas manzili hisoblanadi.
 > > ![Internet Protocol](ip-nima.jpg)
@@ -66,7 +66,7 @@
 > **DNS(Domain Name Server)** - Domen nomlari tizimi (DNS) Domen nomlarini IP manzillarga o'girib beradi.
 > > ![DNS haqida tushuncha](DNS.jpg)
 ---------
-## Web Server {#web-server}
+## Web Server
 > ## Web server nima?
 > **Web Server** - Foydalanuvchidan kelayotgan so'rovlarni (HTTP so'rovlarni) qabul qilib, tegishli javobni yuboradigan dastur hisoblanadi.
 > ### Bu dasturlarga misollar;
