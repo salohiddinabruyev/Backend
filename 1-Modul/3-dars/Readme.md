@@ -1,4 +1,4 @@
-# 3-dars. Bugungi mavzuda
+# 3-dars. Ish muhitini sozlash
 
 > 1. Web Server(**Apache**, **NGINX**), PHP, MySQL haqida
 > 2. Code editors(**Sublime Text**, **VSCode**, **PHPStorm**) haqida batafsil
@@ -78,3 +78,4 @@
 >>> 3. Davom etamiz. ![OSPanel o'rnatish](assets/img/ospanel/8.jpg)
 >>> 4. Dasturni o'rnatib bo'ldik, endi kompyuterni qayta ishga tushiramiz. ![OSPanel o'rnatish](assets/img/ospanel/9.jpg)
 >> - Open Server dasturini darslarimizga kerakli qismlarini sozlab olishimiz kerak.
+
