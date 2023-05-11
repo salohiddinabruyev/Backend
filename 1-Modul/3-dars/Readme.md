@@ -1,6 +1,6 @@
 # 3-dars. Ish muhitini sozlash
 
-> 1. Web Server(**Apache**, **NGINX**), PHP, MySQL haqida
+> 1. Web Server(**_Apache_**, **_NGINX_**), PHP, MySQL haqida
 > 2. Code editors(**Sublime Text**, **VSCode**, **PHPStorm**) haqida batafsil
 > 3. Open Server bilan tanishish va uni o'rnatish
 > > ![Web Server haqida](assets/img/home_info.jpg)
