@@ -59,19 +59,19 @@
 >> - Open Server dasturini yuklab olish uchun [Yuklab olish](https://ospanel.io/s/LKs_UtocFUt2k6ZlnfZ2nw/1684208552/open_server_panel_5_4_3_setup.exe).
 >> - Open Server dasturini o'rnatishni boshlaymiz.
 >>> 1. Dasturni ishga tushiramiz.
->>> 2. Davom etish(Далее). ![OSPanel o'rnatish](assets/img/ospanel/1.jpg).
->>> 3. 1-tanlab keyin, (Далее). ![OSPanel o'rnatish](assets/img/ospanel/2.jpg).
->>> 4. Davom etamiz. ![OSPanel o'rnatish](assets/img/ospanel/3.jpg).
->>> 5. Agarda birinchi marta o'rnatayotgan bo'lsak. ![OSPanel o'rnatish](assets/img/ospanel/4.1.jpg).
->>> 6. Agarda ikkinchi marta o'rnatayotgan bo'lsak, dastur o'rnatiladigan joyni o'zgartirib qo'yamiz(Обзор...). ![OSPanel o'rnatish](assets/img/ospanel/4.2.jpg).
->>> 7. Dasturni to'liq o'rnatish uchun. ![OSPanel o'rnatish](assets/img/ospanel/5.jpg).
+>>> 2. Davom etish(Далее).<br> ![OSPanel o'rnatish](assets/img/ospanel/1.jpg).
+>>> 3. 1-tanlab keyin, (Далее).<br> ![OSPanel o'rnatish](assets/img/ospanel/2.jpg).
+>>> 4. Davom etamiz.<br> ![OSPanel o'rnatish](assets/img/ospanel/3.jpg).
+>>> 5. Agarda birinchi marta o'rnatayotgan bo'lsak.<br> ![OSPanel o'rnatish](assets/img/ospanel/4.1.jpg).
+>>> 6. Agarda ikkinchi marta o'rnatayotgan bo'lsak, dastur o'rnatiladigan joyni o'zgartirib qo'yamiz(Обзор...).<br> ![OSPanel o'rnatish](assets/img/ospanel/4.2.jpg).
+>>> 7. Dasturni to'liq o'rnatish uchun.<br> ![OSPanel o'rnatish](assets/img/ospanel/5.jpg)
 >>> 8. Dastur ichida ishlatmaydigan dasturiy ta'minotlarimizni olib tashlaymiz bular.
 >>>> * PHP 5.2.
 >>>> * PHP 5.3.
 >>>> * PHP 5.4.
 >>>> * PHP 5.5.
 >>>> * MySQL 5.1.
->>>> * MySQL 5.2.
+>>>> * MySQL 5.2.<br>
 >>>> ![OSPanel o'rnatish](assets/img/ospanel/5.2.jpg)
 >>> 1. Davom etamiz. ![OSPanel o'rnatish](assets/img/ospanel/6.jpg)
 >>> 2. Davom etamiz. ![OSPanel o'rnatish](assets/img/ospanel/7.jpg)
