@@ -1,4 +1,4 @@
-# 3-dars bugungi mavzusida
+# 3-dars. Bugungi mavzuda
 
 > 1. Web Server(**Apache**, **NGINX**), PHP, MySQL haqida
 > 2. Code editors(**Sublime Text**, **VSCode**, **PHPStorm**) haqida batafsil
