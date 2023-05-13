@@ -55,7 +55,7 @@
 
 # Uyga vazifa
 > #### Uyga berilgan vazifalarni birinchi mantiqan o'ylab ko'rib nima chiqishini topish kerak, keyin esa o'ylagan natija bilan chiqqan natija bir xilmi yoki yo'qligini tekshirib ko'rish kerak;
-
+> ### Berilgan topshiriqlarni javoblarini [O'qituvchi](https://t.me/AbruyevSalohiddin)ga tashlashingiz kerak;
 >> ### 1. Savol: Ushbu kodlarning natijasi nima chiqadi?
 >>> `$number = 20.6;`\
 >>> `$result = gettype($number);`\
