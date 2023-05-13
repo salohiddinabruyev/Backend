@@ -40,8 +40,9 @@
 > 2. `gettype()` - O'zgaruvchini faqat turini tekshiradi;
 > 3. `is_string()` - Ma'lumot turi matn ekanligini tekshiradi;
 > 4. `is_integer()` - Ma'lumot turi butun son ekanligini tekshiradi;
-> 5. `is_bool()` - Ma'lumot turi boolean ekanligini tekshiradi;
-> 6. `is_null()` - Ma'lumot turi `NULL` ekanligini tekshiradi;
+> 5. `is_float()` - Ma'lumot turi qoldiqli son ekanligini tekshiradi;
+> 6. `is_bool()` - Ma'lumot turi boolean ekanligini tekshiradi;
+> 7. `is_null()` - Ma'lumot turi `NULL` ekanligini tekshiradi;
 
 ***
 
@@ -49,3 +50,21 @@
 
 >> Ushbu rasmdagi kodning natijasida nima chiqadi.
 >>> ![topshiriq](topshiriq.png)
+
+***
+
+# Uyga vazifa
+> #### Uyga berilgan vazifalarni birinchi mantiqan o'ylab ko'rib nima chiqishini topish kerak, keyin esa o'ylagan natija bilan chiqqan natija bir xilmi yoki yo'qligini tekshirib ko'rish kerak;
+
+>> ### 1. Savol: Ushbu kodlarning natijasi nima chiqadi?
+>>> `$number = 20.6;`\
+>>> `$result = gettype($number);`\
+>>> `$natija = var_dump($result);`\
+>>> `echo $natija;`
+
+>> ### 2. Topshiriq: 
+>>> Ushbu darsda o'tilgan ma'lumot turlari bo'yicha bilimlaringizni mustahkamlash uchun har bir ma'lumot turiga misol keltirib [O'qituvchiga](https://t.me/AbruyevSalohiddin) tashlang esdan chiqmasin!!!
+
+>> ### 3. Topshiriq:
+>>> HTML va PHP yordamida quyidagi ko'rinishdagi jadvalni hosil qiling. Ismlar va sonlarni ko'rsatishda o'zgaruvchilardan foydalaning.
+>>>> ![3-Topshiriq](assets/img/3.jpg)
