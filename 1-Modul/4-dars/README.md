@@ -49,7 +49,7 @@
 # Topshiriq
 
 >> Ushbu rasmdagi kodning natijasida nima chiqadi.
->>> ![topshiriq](topshiriq.png)
+>>> ![topshiriq](assets/img/topshiriq.png)
 
 ***
 
