@@ -13,3 +13,5 @@
 > > 10. Funksiyalar
 > > 11. Takrorlanish (sikl) operatorlari
 > > 12. Massivlar
+***
+## O'qituvchi: [Salohiddin Abruyev](https://t.me/AbruyevSalohiddin) olib boradi.
